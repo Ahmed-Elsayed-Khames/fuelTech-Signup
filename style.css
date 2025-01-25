@@ -117,8 +117,10 @@
                 flex-direction: column;
             }
             .container h2{
-                font-size: 30px;
-                text-align: center;
+                font-size: 35px;
+            }
+            #logo{
+                height: 40px;
             }
 
             .left-section {
